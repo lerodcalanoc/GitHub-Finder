@@ -12,3 +12,4 @@
     jQuery
     Ajax
     Github API
+    Bootswatch
