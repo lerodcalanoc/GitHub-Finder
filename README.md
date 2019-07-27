@@ -1,5 +1,6 @@
 # GitHub Finder
 ["Click here to launch the app"](https://findergithub.netlify.com/)
+![](https://i2.wp.com/blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif?fit=800%2C600&ssl=1)
 
 # How the app works:
 * Search Github.com username.
@@ -11,5 +12,3 @@
     jQuery
     Ajax
     Github API
-
-![](https://i2.wp.com/blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif?fit=800%2C600&ssl=1)
