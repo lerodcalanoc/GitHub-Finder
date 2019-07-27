@@ -9,6 +9,7 @@
 # Technology Used:
     HTML
     CSS
+    JavaScript
     jQuery
     Ajax
     Github API
